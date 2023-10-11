@@ -1,2 +1,2 @@
-# rooven
-Since I already have roven, this is for R foo.
+# roven
+Renamed the ruby repo from `roven` to `ruboven` so I can use `roven` for R.  Because R > ruby.
